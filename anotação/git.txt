@@ -1,0 +1,7 @@
+É possível  passar arquivos para o github direto do terminal.
+
+1. Instalar o git. 
+
+--- ir em Git Downloads, instalar o arquivo
+
+--- git init após configurar nas variáveis do ambiente
